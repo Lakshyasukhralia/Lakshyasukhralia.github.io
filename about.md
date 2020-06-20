@@ -23,11 +23,11 @@ I like Code, Anime & Video Games.</p>
 	<li>PHP</li>
 </ul>
 
-<h2>My Projects</h2>
+<h2>My Articles & Projects</h2>
 
 <ul>
 	<li><a href="https://www.geeksforgeeks.org/image-encryption-using-cellular-automata/">Image Encryption using rules of Cellular Automata</a></li>
 	<li><a href="https://play.google.com/store/apps/details?id=com.gmail.lakshya.benchmark">Android Benchmark App</a></li>
-	<li><a href="https://github.com/Lakshyasukhralia/NeuralFPS">Multiplayer Neural FPS Game in Unity</a></li>
+	<li><a href="https://www.linkedin.com/pulse/using-our-brains-neuromarketing-hands-free-gaming-rise-sukhralia/">Multiplayer Neural FPS Game in Unity</a></li>
 	<li><a href="https://github.com/Lakshyasukhralia/hlktshortner">URL Shortener</a></li>
 </ul>
