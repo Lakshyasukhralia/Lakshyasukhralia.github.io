@@ -11,10 +11,10 @@ I like Code, Anime & Video Games.</p>
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>Android-Unity-Tensorflow</li>
-	<li>Kotlin-Python-Java-PHP-C/C#</li>
-	<li>SQL-Mongo-Redis</li>
-	<li>AWS (Lambdas-S3-SQS-Rekognition-SageMaker)</li>
+	<li>Android - Unity - Tensorflow</li>
+	<li>Kotlin - Python -Java - PHP - C/C#</li>
+	<li>SQL - Mongo - Redis</li>
+	<li>AWS (Lambdas - S3 - SQS - Rekognition - SageMaker)</li>
 </ul>
 
 <h2>My Projects & Articles</h2>
