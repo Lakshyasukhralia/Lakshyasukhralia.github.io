@@ -22,7 +22,7 @@ layout: page
 	<li>PHP</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>My Projects</h2>
 
 <ul>
 	<li><a href="https://www.geeksforgeeks.org/image-encryption-using-cellular-automata/">Image Encryption using rules of Cellular Automata</a></li>
