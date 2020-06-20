@@ -4,26 +4,20 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<h1>Hello World, Lakshya here</h1>
+<h1>Hello world, Lakshya here</h1>
 <p>Recent graduate outfitted with a Bachelor of Technology in Computer Science currently working as a Software Developer.
 I like Code, Anime & Video Games.</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>Android</li>
-	<li>AI/ML</li>
-	<li>Unity</li>
-	<li>Kotlin</li>
-	<li>Python</li>
-	<li>C#</li>
-	<li>SQL,Mongo,Redis</li>
-	<li>OpenCV & Tensorflow</li>
-	<li>AWS (Lambdas,S3,SQS,Rekognition & SageMaker)</li>
-	<li>PHP</li>
+	<li>Android-Unity-Tensorflow</li>
+	<li>Kotlin-Python-Java-PHP-C/C#</li>
+	<li>SQL-Mongo-Redis</li>
+	<li>AWS (Lambdas-S3-SQS-Rekognition-SageMaker)</li>
 </ul>
 
-<h2>My Articles & Projects</h2>
+<h2>My Projects & Articles</h2>
 
 <ul>
 	<li><a href="https://www.geeksforgeeks.org/image-encryption-using-cellular-automata/">Image Encryption using rules of Cellular Automata</a></li>
