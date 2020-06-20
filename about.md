@@ -24,7 +24,8 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://www.geeksforgeeks.org/image-encryption-using-cellular-automata/">Image Encryption using rules of Cellular Automata</a></li>
+	<li><a href="https://play.google.com/store/apps/details?id=com.gmail.lakshya.benchmark">Android Benchmark App</a></li>
+	<li><a href="https://github.com/Lakshyasukhralia/NeuralFPS">Multiplayer Neural FPS Game in Unity</a></li>
+	<li><a href="https://github.com/Lakshyasukhralia/hlktshortner">URL Shortener</a></li>
 </ul>
