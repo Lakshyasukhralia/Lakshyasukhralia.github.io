@@ -5,7 +5,8 @@ layout: page
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <h1>Hello World</h1>
-<p>Recent graduate outfitted with a Bachelor of Technology in Computer Science and 1 year of job experience as a Software Developer. Highly versatile and forward thinker with extreme attention to detail and ability to multitask within fast-paced environments.</p>
+<p>Recent graduate outfitted with a Bachelor of Technology in Computer Science currently working as a Software Developer.
+I like Code, Anime & Video Games.</p>
 
 <h2>Skills</h2>
 
