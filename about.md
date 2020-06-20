@@ -12,7 +12,7 @@ I like Code, Anime & Video Games.</p>
 
 <ul class="skill-list">
 	<li>Android - Unity - Tensorflow</li>
-	<li>Kotlin - Python -Java - PHP - C/C#</li>
+	<li>Kotlin - Python - Java - PHP - C/C#</li>
 	<li>SQL - Mongo - Redis</li>
 	<li>AWS (Lambdas - S3 - SQS - Rekognition - SageMaker)</li>
 </ul>
