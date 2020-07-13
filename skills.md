@@ -22,9 +22,9 @@ layout: page
 <h1>Kotlin</h1>
 
 <ul class="kotlin-skill-list">
-	<li>Basics ( Operators, Array, Loops, Iterators)</li>
-	<li>Functions (Compact Functions, Filters, Lambdas, Generic, Extension, Inline, SAM, High order)</li>
-	<li>Classes (Inheritance, Interface, Data class, Generic, Sealed/Object/Companion/Enum)</li>
+	<li><strong>Basics</strong> : Operators, Array, Loops, Iterators</li>
+	<li><strong>Functions</strong> : Compact Functions, Filters, Lambdas, Generic, Extension, Inline, SAM, High order</li>
+	<li><strong>Classes</strong> : Inheritance, Interface, Data class, Generic, Sealed/Object/Companion/Enum</li>
 </ul>
 
 
