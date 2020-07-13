@@ -17,8 +17,6 @@ layout: page
 </ul>
 
 <br>
-<br>
-<br>
 
 ![Profile Image]({% if site.external-image %}{{ site.kotlin-logo }}{% else %}{{ site.url }}/{{ site.kotlin-logo }}{% endif %})
 
