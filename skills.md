@@ -2,7 +2,7 @@
 title: Skills
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+![Profile Image]({% if site.external-image %}{{ site.android-logo }}{% else %}{{ site.url }}/{{ site.android-logo }}{% endif %})
 
 <h1>Android</h1>
 
