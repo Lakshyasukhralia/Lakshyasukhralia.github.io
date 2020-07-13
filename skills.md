@@ -7,7 +7,6 @@ layout: page
 <h1>Android</h1>
 
 <ul class="android-skill-list">
-	<li><strong>Kotlin</strong> : Basics ( Operators, Array, Loops, Iterators), Functions (Compact Functions, Filters, Lambdas, Generic, Extension, Inline, SAM, High order), Classes (Inheritance, Interface, Data class, Generic, Sealed/Object/Companion/Enum)</li>
 	<li><strong>Basic</strong> : Activity lifecycles, Fragments, Navigation Controller, Recycler view, JUnit testcases</li>
 	<li><strong>UI</strong> : Databinding, Contraint layout, Motion layout, Coordinator layout, Material designs, Vectors, Bottom sheets, 9Patch, Chip groups, Dark mode</li>
   <li><strong>MVVM</strong> : View models, Observers, Live Data, Coroutines</li>
@@ -17,6 +16,15 @@ layout: page
   <li><strong>Libraries & SDK</strong> : Jetpack, PayU Gateway, MPChart, Glide, Zendesk, Google play services, Firebase</li>
 </ul>
 
-![Profile Image]({% if site.external-image %}{{ site.android-logo }}{% else %}{{ site.url }}/{{ site.android-logo }}{% endif %})
+
+![Profile Image]({% if site.external-image %}{{ site.kotlin-logo }}{% else %}{{ site.url }}/{{ site.kotlin-logo }}{% endif %})
+
+<h1>Kotlin</h1>
+
+<ul class="kotlin-skill-list">
+	<li>Basics ( Operators, Array, Loops, Iterators)</li>
+	<li>Functions (Compact Functions, Filters, Lambdas, Generic, Extension, Inline, SAM, High order)</li>
+	<li>Classes (Inheritance, Interface, Data class, Generic, Sealed/Object/Companion/Enum)</li>
+</ul>
 
 
