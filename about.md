@@ -7,6 +7,7 @@ layout: page
 <h1>Hi, Lakshya here</h1>
 <p>A recent graduate outfitted with a Bachelor of Technology in Computer Science currently working as an Android Developer. I have deep interest in developing Video Games and follow AI/ML. Aside that, I love to play Video Games and watch Anime.</p>
 
+<! -- 
 <h2>Skills</h2>
 
 <ul class="skill-list">
@@ -24,3 +25,4 @@ layout: page
 	<li><a href="https://www.linkedin.com/pulse/using-our-brains-neuromarketing-hands-free-gaming-rise-sukhralia/">Multiplayer Neural FPS Game in Unity</a></li>
 	<li><a href="https://github.com/Lakshyasukhralia/hlktshortner">URL Shortener</a></li>
 </ul>
+-->
