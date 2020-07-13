@@ -37,7 +37,7 @@ layout: page
 <ul class="python-skill-list">
 	<li><strong>Basics</strong> : Strings, Lists and Tuples, Dictionaries and Sets, Conditional Execution & Loops, Comprehensions, Functions, Modules</li>
 	<li><strong>Intermediate</strong> : File Handling, Object Oriented Programming, Iterator, Generator, Decorators, Lambda Expressions</li>
-	<li><strong>Libraries</strong> : Matplotlib, OpenCV, Numpy, Pandas, Requests, NLTK, TKinter, Tensorflow, Selenium webdriver, AWS, MWS, Scipy, SQL alchemy, Pillow, Beautiful Soup, Text Blob, Kivy, Flask</li>
+	<li><strong>Libraries</strong> : Matplotlib, OpenCV, Numpy, Pandas, Requests, NLTK, TKinter, Tensorflow, Selenium webdriver, Boto, MWS, Scipy, SQL alchemy, Pillow, BeautifulSoup, TextBlob, Kivy, Flask</li>
 </ul>
 
 
