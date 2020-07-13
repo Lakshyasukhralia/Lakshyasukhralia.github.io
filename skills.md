@@ -28,4 +28,16 @@ layout: page
 	<li><strong>Classes</strong> : Inheritance, Interface, Data class, Generic, Sealed/Object/Companion/Enum</li>
 </ul>
 
+<br>
+
+![Profile Image]({% if site.external-image %}{{ site.python-logo }}{% else %}{{ site.url }}/{{ site.python-logo }}{% endif %})
+
+<h1>Python</h1>
+
+<ul class="python-skill-list">
+	<li><strong>Basics</strong> : Strings, Lists and Tuples, Dictionaries and Sets, Conditional Execution & Loops, Comprehensions, Functions, Modules</li>
+	<li><strong>Intermediate</strong> : File Handling, Object Oriented Programming, Iterator, Generator, Decorators, Lambda Expressions</li>
+	<li><strong>Libraries</strong> : Matplotlib, OpenCV, Numpy, Pandas, Requests, NLTK, TKinter, Tensorflow, Selenium webdriver, AWS, MWS, Scipy, SQL alchemy, Pillow, Beautiful Soup, Text Blob, Kivy, Flask</li>
+</ul>
+
 
