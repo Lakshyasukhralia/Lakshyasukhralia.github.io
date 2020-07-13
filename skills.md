@@ -17,4 +17,6 @@ layout: page
   <li><strong>Libraries & SDK</strong> : Jetpack, PayU Gateway, MPChart, Glide, Zendesk, Google play services, Firebase</li>
 </ul>
 
+![Profile Image]({% if site.external-image %}{{ site.android-logo }}{% else %}{{ site.url }}/{{ site.android-logo }}{% endif %})
+
 
